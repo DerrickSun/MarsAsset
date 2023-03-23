@@ -1,0 +1,31 @@
+{
+    liquidity:{
+        cash
+        digital wallet
+        debit card
+        other liquidity
+    }
+    investment: {
+        investment fund
+        stock
+        cryptocurrency
+        wealth investment product
+        insurance
+        other investment
+    }
+    property: {
+        house
+        car 
+        other property
+    }
+    receivable: {
+        common receivable
+    }
+    liability: {
+        credit card
+        loan
+        payable
+        other liability
+    }
+}
+
