@@ -1,1 +1,1 @@
-T   his is a asset project.
+This is a asset project.
